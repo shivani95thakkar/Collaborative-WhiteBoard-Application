@@ -1,0 +1,7 @@
+user manual
+by : Vyas Toral , Thakkar Shivani
+1)in painttoolbar class change button images path
+2)change project property - > run -> <add here policy file path according to your location>
+3)run ServerDriver.java
+3)Run multiple instance of CLIENTS BY Test.java
+4)Happy Application;);)
